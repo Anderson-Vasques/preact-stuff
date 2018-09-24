@@ -1,0 +1,10 @@
+{
+  "aliasify": {
+      "aliases": {
+          "react": "preact-compat",
+          "react-dom": "preact-compat",
+      }
+  }
+}
+
+//npm i --save preact-compat
